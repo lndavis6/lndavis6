@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello 😄
+- I'm Lance Davis, currently studying computer engineering at North Carolina A&T and learning the ropes of web3 engineering. I like to play chess, do yoga, watch interesting YouTube videos and One Piece, and code!
 
 <!--
 **lndavis6/lndavis6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
