@@ -1,4 +1,4 @@
-[Github Header.pdf](https://github.com/lndavis6/lndavis6/files/7996967/Github.Header.pdf)
+![Github Header](https://user-images.githubusercontent.com/40670744/152402343-f6899d2f-7cca-408e-aa1e-f810365e6d10.png)
 
 
 ### Yo! 😄
