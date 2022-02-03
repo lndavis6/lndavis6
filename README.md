@@ -1,5 +1,18 @@
-### Hello 😄
-- I'm Lance Davis, currently studying computer engineering at North Carolina A&T and learning the ropes of web3 engineering. I like to play chess, do yoga, watch interesting YouTube videos and One Piece, and code!
+[Github Header.pdf](https://github.com/lndavis6/lndavis6/files/7996967/Github.Header.pdf)
+
+
+### Yo! 😄
+- 🌞 I'm Lance Davis, I value the potential computers have to make living life easier for people
+
+- 🔭 I’m currently working on minnetDAO: a cooperative social network with true democracy; also making digital art 🎨
+
+- 🌱 I’m currently learning JavaScript and tools like React, React Native, p5.js, web3.js, and others
+
+- 💬 Ask me about anything
+
+- 📫 Reach out to me here: https://linktr.ee/lndavis
+
+Link to my cool pfp NFT: https://opensea.io/assets/0x8a9ece9d8806eb0cde56ac89ccb23a36e2c718cf/4074
 
 <!--
 **lndavis6/lndavis6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
