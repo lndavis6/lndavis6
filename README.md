@@ -4,7 +4,7 @@
 ### Yo!
 - 🌞 I'm Lance Davis, I value the potential computers have to make living life easier for people
 
-- 🔭 Working on minnetDAO: a cooperative social network with true democracy; also making digital art 🎨
+- 🔭 Working on minnetDAO: a creator DAO that owns a social network; also making digital art 🎨
 
 - 🌱 Learning JavaScript and tools like React, React Native, p5.js, web3.js, and others
 
